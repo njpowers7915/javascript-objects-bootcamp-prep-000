@@ -1,4 +1,3 @@
-const aratistName = 'Tiesto'
 var playlist = {[artistName]: 'Paradise'}
 
 function updatePlaylist(playlist, artistName, songTitle) {
